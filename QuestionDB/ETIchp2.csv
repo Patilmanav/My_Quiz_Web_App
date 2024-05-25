@@ -1,0 +1,41 @@
+index,Questions,op1,op2,op3,op4,ans
+1,What is the full form of IoT?,a)	Internet of Technology,b)	Incorporate of Things,c) Internet of Things,d) Incorporate of Technology,c) Internet of Things
+2,What is IoT?,a) network of physical objects embedded with sensors,b)	network of virtual objects,c)	network of objects in the ring structure,d)	network of sensors,a) network of physical objects embedded with sensors
+3,Who coined the term “Internet of Things”?,a) Kevin Aston,b)	John Wright,c)	Edward Jameson,d)	George Garton,a) Kevin Aston
+4,When was the actual term “Internet of Things” coined?,a)	1998,b) 1999,c)	2000,d)	2002,b) 1999
+5,Which of the following is not an IoT device?,a) Table,b)	Laptop,c)	Arduino,d) Tablet,a) Table
+6,Which of the following is false about IoT devices?,a)	IoT devices use the internet for collecting and sharing data,b)	IoT devices need microcontrollers,c)	IoT devices use wireless technology,d) IoT devices are completely safe,d) IoT devices are completely safe
+7,Which of the following is not an IoT platform?,a)	Amazon Web Services,b)	Microsoft Azure,c)	Salesforce,d) Flipkart,d) Flipkart
+8,Which of the following is not an application of IoT?,a) BMP280,b)	Smart home,c)	Smart city,d)	Self-driven cars,a) BMP280
+9,Which of the following is not a fundamental component of an IoT system?,a)	Sensors,b)	Connectivity and data processing,c)	User interface,d) Transformer,d) Transformer
+10,What is the full form of IIOT?,a)	Index Internet of Things,b)	Incorporate Internet of Things,c) Industrial Internet of Things,d) Intense Internet of Things,c) Industrial Internet of Things
+11,Which layer is used for wireless connection in IoT devices?,a)	Application layer,b)	Network layer,c) Data link layer,d) Transport layer View Answer,c) Data link layer
+12,Which of the following is false about the IoT components?,a)	A light sensor (photoresistor) is an analog sensor,b) A microphone is a digital sensor,c)	A push button is a digital sensor,d)	A keyboard is a digital sensor,b) A microphone is a digital sensor
+13,Which of the following is used to capture data from the physical world in IoT devices?,a) Sensors,b)	Actuators,c)	Microprocessors,d)	Microcontrollers,a) Sensors
+14,Which of the following commands is used to trigger the Amazon echo IOT device?,a)	Hello,b)	Suri,c) Alexa,d) Hey,c) Alexa
+15,Which of the following is false about the MANET IoT network?,a)	It is a self-configuring network,b)	It has a low data rate,c)	It doesn’t have any encryption,d) Power is readily available for complex security,d) Power is readily available for complex security
+16,Which of the following is not a sensor in IoT?,a)	BMP280,b)	DHT11,c)	Photoresistor,d) LED,d) LED
+17,Which of the following is not an actuator in IoT?,a)	Stepper motor,b)	A fan,c)	An LED,d) Arduino,d) Arduino
+18,What is the use of PWM signals in IoT development boards?,a)	They are used by sensors to have analog input,b)	They are used by sensors to have digital input,c) They are used by actuators to have analog input,d) They are used by actuators to have digital input,c) They are used by actuators to have analog input
+19,Which of the following is used to reprogram a Bootloader in IoT devices?,a)	VHDL programming,b)	IDE,c) ICSP,d) MANET,c) ICSP
+20,Which of the following is true about Arduino IoT devices?,a) They are open-source software,b)	They can only read analog inputs,c)	They have their own operating systems,d)	They don’t have pre-programmed firmware,a) They are open-source software
+21,How many elements in the Open IoT Architecture?,a)	3 elements,b) 7 elements,c)	8 elements,d)	6 elements,b) 7 elements
+22,IoT-A stands for 	,a)	Internet of Things Area,b)	Industrial of things Architecture,c)	Internet of Things Address,d) Internet of Things Architecture,d) Internet of Things Architecture
+23,Which of the following is not a feature of the Raspberry PI model B IoT device?,a) It has 256 MB SDRAM,b)	It has a single USB connector,c)	It has its own operating system,d)	It has an Ethernet port,a) It has 256 MB SDRAM
+24,Which of the following processors is used in the Raspberry PI 3 IoT device?,a)	Broadcom BCM2711,b) Broadcom BCM2837,c)	Broadcom BCM2838,d)	Intel 8085,b) Broadcom BCM2837
+25,Which library is used to access I2C in Arduino IoT devices?,a)	EEPROM,b) Wire,c)	DHT11,d)	ArduinoJson,b) Wire
+26,Which of the following is not related to Arduino IDE IoT software?,a)	Serial monitor,b)	Verify,c)	Upload,d) Terminate,d) Terminate
+27,Which of the following is a complete line of home IoT devices that include smart switches?,a) Belkin’s WeMo,b)	Cinder,c)	Awair,d)	Canary,a) Belkin’s WeMo
+28,IoT gateway must provide 	,a) Protocol abstraction,b)	Data storage,c)	Security with hardware,d)	Simple and fast installation,a) Protocol abstraction
+29,What IoT collects?,a)	Device data,b) Machine generated data,c)	Sensor data,d)	Human generated data,b) Machine generated data
+30,Which of the following protocols is used to link all the devices in the IoT?,a)	HTTP,b)	UDP,c)	Network,d) TCP/IP,d) TCP/IP
+31,Which service permits the changes to the IoT services?,a) Update,b)	Registered service status,c)	Enable from suspension,d)	Enable,a) Update
+32,What is the role of Cloud in smart grid architecture of IoT?,a)	Security,b)	Collect data,c) Manage data,d) Store data,c) Manage data
+33,What is the component of an IoT system that executes a program?,a)	A sensor,b) A microcontroller,c)	An actuator,d)	A digital to analog converter,b) A microcontroller
+34,Which programming language is used by Arduino IDE IoT software for writing codes?,a)	Python,b)	Java,c) C/C++,d) JavaScript,c) C/C++
+35,What is the full form of DHCP in IoT communication protocols?,a) Dynamic Host Communication Protocol,b)	Domain Host Communication Protocol,c)	Dynamic Host Control Protocol,d)	Domain Host Control Protocol,a) Dynamic Host Communication Protocol
+36,What is the full form of IDE in Arduino IDE IoT software?,a)	Intra Defense Environment,b)	Intra Development Environment,c) Integrated Development Environment,d) Integrated Deployed Environment,c) Integrated Development Environment
+37,dweet.io provides 	to send data from IoT devices.,a) Web API,b)	POST HTTP,c)	JSON,d)	HTTP,a) Web API
+38,Identify the language preferred for IoT analytics.,Python,HTML,PHP,C++,Python
+39,Identify the incorrect advantage of IoT.,Reduce waste,Enhanced data collection,Improve customer engagement,Security,Security
+40,Which of the following allows to monitor the application,boot,hypermedia,actuators,endpoints,endpoints

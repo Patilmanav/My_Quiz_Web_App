@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Quiz Results</title>
+</head>
+<body>
+    <div class="container" style="overflow-y: scroll; max-height: 92vh;">
+        <h1>Quiz Results</h1>
+        <p>Hello, {{ Uname }}</p>
+        <p>You scored {{ score }} out of {{ total_questions }}!</p>
+        
+        <h2>Review Your Answers:</h2>
+        <ul>
+            {% for answer in answers %}
+                <li>
+
+                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}" ><strong>Question:</strong> {{ answer['question'] }}</p>
+                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}"><strong>Your Answer:</strong> {{ answer['selected'] }}</p>
+                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}"><strong>Correct Answer:</strong> {{ answer['correct'] }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+        
+        <a href="{{ url_for('index') }}">Take the quiz again</a>
+    </div>
+</body>
+</html>

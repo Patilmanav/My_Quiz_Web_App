@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Questions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+<body>
+<div class="container">
+    <H1>Enter Detail to add Questions.......</H1>
+    <form method="POST">
+        <div>
+            <label>Enter Your name: </label>
+            <input type="text" name="name" placeholder="Enter Name here..">
+            <br>
+            <label>Enter Secret Key: </label>
+            <input type="text" name="key" placeholder="Secret Key...">
+            <br>
+            <label>MCQ's are Based On: </label>
+            <input type="text" name="type" placeholder="i.e. Chapter Name, imp or any other">
+
+        </div>
+        <button type="submit" value="submit> Next"> Next</button>
+    </form>
+    </div>
+</body>
+</html>

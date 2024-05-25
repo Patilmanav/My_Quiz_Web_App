@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Quiz</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz</h1>
+        <form method="POST" >
+            <div id="f1">
+                <label for="Name">Enter Your Name</label>
+                <input type="text" name="name" id="name">
+                <button type="button" onclick="start_quiz()" id="b1">submit details</button>
+            </div>
+            <div id="Que">
+                <p>{{ question['question'] }}</p>
+                {% for choice in question['choices'] %}
+                    <div>
+                        <input type="radio" id="choice{{ loop.index }}" name="choice" value="{{ choice }}" required>
+                        <label for="choice{{ loop.index }}">{{ choice }}</label>
+                    </div>
+                {% endfor %}
+                <button type="submit">Next</button>
+            </div>
+        </form>
+        <p>Question {{ current_question + 1 }} of {{ total_questions }}</p>
+    </div>
+    <script>
+        var form1 = document.getElementById('f1');
+        var que = document.getElementById('Que');
+        // que.innerHTML = "Hello"
+        console.log({{ isNameEntered }});
+        if ({{ isNameEntered }} == 1){
+            que.hidden = false;
+            form1.hidden = true;
+        }
+        else{
+            que.hidden = true;
+        }
+
+        function start_quiz(){
+            if (document.getElementById('name').value != ''){
+                form1.hidden = true;
+                que.hidden = false;
+
+            }
+            else{
+                window.alert("Please, Enter your name...");
+            }
+        }
+    </script>
+</body>
+</html>
