@@ -11,7 +11,7 @@ questions = []
 def index():
     # Sample questions
     questions.clear()
-    df = pd.read_csv('Quiz_App\QuestionDB\ETIchp2.csv', index_col=False)
+    df = pd.read_csv('Quiz_App/QuestionDB/ETIchp2.csv', index_col=False)
     print(list(df.iterrows())[0][1]['Questions'])
 
     for i, row in df.iterrows():
