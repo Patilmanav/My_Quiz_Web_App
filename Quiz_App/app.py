@@ -107,5 +107,3 @@ def results():
 
     return render_template('results.html', Uname=name, score=score, total_questions=total_questions, answers=answers)
 
-if __name__ == '__main__':
-    app.run(debug=True)
