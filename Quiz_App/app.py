@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, session,jsonify
 import pandas as pd
-import dbHandler
+from Quiz_App import dbHandler
 
 app = Flask(__name__,template_folder='templates')
 app.secret_key = 'your_secret_key'  # Needed for session management
