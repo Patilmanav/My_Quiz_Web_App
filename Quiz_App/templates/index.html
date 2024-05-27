@@ -4,21 +4,81 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+        <style>
 
+        .dropdown {
+            position: relative;
+            display: block;
+            margin: 10px;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        .hidden {
+            display: none;
+        }
+
+    </style>
 </head>
 <body>
 
     <div class="container" style="text-align: center;">
-        Welcome To Quick Quiz......
-        <form method="POST">
-            <div >
-            <button class="btns" type="submit" value="Start Quiz">Start Quiz</button>
-            <button class="btns" type="button" value="Add Questions" onclick="window.location.href = '{{ url_for('add_que') }}'; ">Add Questions</button>
-            </div>
-        </form>
-
+        <h1>Welcome to the Quiz App</h1>
+    <div class="dropdown">
+        <button>ETI</button>
+        <div class="dropdown-content">
+            <a href="#" onclick="submitForm('ETI', 'Chapter1')">Chapter 1</a>
+            <a href="#" onclick="submitForm('ETI', 'Chapter2')">Chapter 2</a>
+            <a href="#" onclick="submitForm('ETI', 'Chapter3')">Chapter 3</a>
+            <a href="#" onclick="submitForm('ETI', 'Chapter4')">Chapter 4</a>
+            <a href="#" onclick="submitForm('ETI', 'Chapter5')">Chapter 5</a>
+            <a href="#" onclick="submitForm('ETI', 'Chapter6')">Chapter 6</a>
+            <a href="#" onclick="submitForm('ETI', 'AllChapters')">All Chapters</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button>MAN</button>
+        <div class="dropdown-content">
+            <a href="#" onclick="submitForm('MAN', 'Chapter1')">Chapter 1</a>
+            <a href="#" onclick="submitForm('MAN', 'Chapter2')">Chapter 2</a>
+            <a href="#" onclick="submitForm('MAN', 'Chapter3')">Chapter 3</a>
+            <a href="#" onclick="submitForm('MAN', 'Chapter4')">Chapter 4</a>
+            <a href="#" onclick="submitForm('MAN', 'Chapter5')">Chapter 5</a>
+            <a href="#" onclick="submitForm('MAN', 'Chapter6')">Chapter 6</a>
+            <a href="#" onclick="submitForm('MAN', 'AllChapters')">All Chapters</a>
+        </div>
     </div>
 
+    <form id="quizForm" method="POST" class="hidden">
+        <input type="hidden" name="subject" id="subjectInput">
+        <input type="hidden" name="chapter" id="chapterInput">
+    </form>
+    </div>
+
+    <script>
+        function submitForm(subject,chapter) {
+            document.getElementById('subjectInput').value = subject;
+            document.getElementById('chapterInput').value = chapter;
+            document.getElementById('quizForm').submit();
+        }
+    </script>
 
 </body>
 </html>

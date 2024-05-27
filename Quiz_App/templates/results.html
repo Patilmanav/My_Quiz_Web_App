@@ -16,10 +16,9 @@
         <ul>
             {% for answer in answers %}
                 <li>
-
-                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}" ><strong>Question:</strong> {{ answer['question'] }}</p>
-                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}"><strong>Your Answer:</strong> {{ answer['selected'] }}</p>
-                    <p style="{% if answer['selected'] != answer['correct'] %} color:red  {% endif %}"><strong>Correct Answer:</strong> {{ answer['correct'] }}</p>
+                    <p style="{% if answer['selected'].strip().split('.')[0] not in answer['correct'].strip().replace('Ans:','') %} color:red  {% endif %}" ><strong>Question:</strong> {{ answer['question'] }}</p>
+                    <p style="{% if answer['selected'].strip().split('.')[0] not in answer['correct'].strip().replace('Ans:','') %} color:red  {% endif %}"><strong>Your Answer:</strong> {{ answer['selected'] }}</p>
+                    <p style="{% if answer['selected'].strip().split('.')[0] not in answer['correct'].strip().replace('Ans:','') %} color:red  {% endif %}"><strong>Correct Answer:</strong> {{ answer['correct'] }}</p>
                 </li>
             {% endfor %}
         </ul>

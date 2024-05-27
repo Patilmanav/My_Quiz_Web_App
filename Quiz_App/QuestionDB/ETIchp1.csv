@@ -1,0 +1,72 @@
+index,Questions,Options,Answer
+1,1. Which of these schools was not among the early leaders in AI research?,A. Dartmouth University | B. Harvard University | C. Massachusetts Institute of Technology | D. Stanford University | E. None of the above,Ans: B
+2,"2. DARPA, the agency that has funded a great deal of American AI research, is part of the Department of:",A. Defense | B. Energy | C. Education | D. Justice | E. None of the above,Ans: A
+3,3. The conference that launched the AI revolution in 1956 was held at:,A. Dartmouth | B. Harvard | C. New York | D. Stanford | E. None of the above,Ans: A
+4,4. What is the term used for describing the judgmental or commonsense part of problem solving?,A. Heuristic | B. Critical | C. Value based | D. Analytical | E. None of the above,Ans: A
+5,5. What of the following is considered to be a pivotal event in the history of AI.,"A. 1949, Donald O, The organization of Behavior. | B. 1950, Computing Machinery and Intelligence. | C. 1956, Dartmouth University Conference Organized by John McCarthy. | D. 1961, Computer and Computer Sense. | E. None of the above",Ans: C
+6,6. A certain Professor at the Stanford University coined the word 'artificial intelligence' in 1956 at a conference held at Dartmouth College. Can you name the Professor?,A. David Levy | B. John McCarthy | C. Joseph Weizenbaum | D. Hans Berliner | E. None of the above,Ans: B
+7,7. The field that investigates the mechanics of human intelligence is:,A. History | B. cognitive science | C. psychology | D. sociology | E. None of the above,Ans: B
+8,"8. A.M. turing developed a technique for determining whether a computer could or could not demonstrate the artificial Intelligence,, Presently, this technique is called",A. Turing Test | B. Algorithm | C. Boolean Algebra | D. Logarithm | E. None of the above,Ans: A
+9,9. The first AI programming language was called:,A. BASIC | B. FORTRAN | C. IPL | D. LISP | E. None of the above,Ans: C
+10,10. What is Artificial intelligence?,A. Putting your intelligence into Computer | B. Programming with your own intelligence | C. Making a Machine intelligent | D. Putting more memory into Computer,Ans: C
+11,11. Who is a father of AI?,A. Alain Colmerauer | B. John McCarthy | C. Nicklaus Wirth | D. Seymour Papert,Ans: B
+12,12. Artificial Intelligence has its expansion in the following application.,A. Planning and Scheduling | B. Game Playing | C. Robotics | D. All of the above,Ans: D
+13,"13. The characteristics of the computer system capable of thinking, reasoning and learning is known is",A. machine intelligence | B. human intelligence | C. artificial intelligence | D. virtual intelligence,Ans: C
+14,14. The first AI programming language was called:,A. BASIC | B. FORTRAN | C. IPL | D. LISP,Ans: C
+15,"15. The first widely used commercial form of Artificial Intelligence (Al) is being used in many popular products like microwave ovens, automobiles and plug in circuit boards for desktop PCs. What is name of AI?",A. Boolean logic | B. Human logic | C. Fuzzy logic | D. Functional logic,Ans: C
+16,16. What is the term used for describing the judgmental or commonsense part of problem solving?,A. Heuristic | B. Critical | C. Value based | D. Analytical,Ans: A
+17,17.   is a branch of computer science which deals with helping machines finds solutions to complex problems in a more human like fashions,A. Artificial Intelligence | B. Internet of Things | C. Embedded System | D. Cyber Security,Ans: A
+18,18. In the goal is for the software to use what it has learned in one area to solve problems in other areas.,A. Machine Learning | B. Deep Learning | C. Neural Networks | D. None of these,Ans: B
+19,19. Computer programs that mimic the way the human brain processes information is called as,A. Machine Learning | B. Deep Learning | C. Neural Networks | D. None of these,Ans: C
+20,"20. A is a rule of thumb, strategy, trick, simplification, or any other kind of device which drastically limits search for solutions in large problem spaces.",A. Heuristic | B. Critical | C. Value based | D. Analytical,Ans: A
+21,21.   do not guarantee optimal/any solutions,A. Heuristic | B. Critical | C. Value based | D. Analytical,Ans: A
+22,22. Cognitive science related with,A. Act like human | B. ELIZA | C. Think like human | D. None of above,Ans: C
+23,23.   Model should reflect how results were obtained.,A. Design model | B. Logic model | C. Computational model | D. None of above,Ans: C
+24,24. Communication between man and machine is related with,A. LISP | B. ELIZA | C. All of above | D. None of above,Ans: B
+25,25. ELIZA created by,A. John McCarthy | B. Steve Russell | C. Alain Colmerauer | D. Joseph Weizenbaum,Ans: D
+26,"26. The concept derived from level are propositional logic, tautology, predicate calculus, model, temporal logic.",A. Cognition level | B. Logic level | C. Functional level | D. All of above,Ans: B
+27,27. PROLOG is an AI programming language which solves problems with a form of symbolic logic known as .,A. Propositional logic | B. Tautology | C. Predicate calculus | D. Temporal logic,Ans: C
+28,"28. The level contains constituents at the third level which are knowledge based system, heuristic search, automatic theorem proving, multi-agent system.",A. Cognition level | B. Gross level | C. Functional level | D. All of above,Ans: B
+29,"29. PROLOG, LISP, NLP are the language of _",A. Artificial Intelligence | B. Machine Learning | C. Internet of Things | D. Deep Learning,Ans: A
+30,30.   is used for AI because it supports the implementation of software that computes with symbols very well.,A. LISP | B. ELIZA | C. PROLOG | D. NLP,Ans: A
+31,"31. Symbols, symbolic expressions and computing with those is at the core of",A. LISP | B. ELIZA | C. PROLOG | D. NLP,Ans: A
+32,32.   that deals with the interaction between computers and humans using the natural language,A. LISP | B. ELIZA | C. PROLOG | D. NLP,Ans: D
+33,33. The core components are constituents of AI are derived from,A. Concept of logic | B. Cognition | C. Computation | D. All of above,Ans: D
+34,34. Aristotle’s theory of syllogism and Descartes and kant’s critic of pure reasoning made knowledge on .,A. Logic | B. Computation logic | C. Cognition logic | D. All of above,Ans: A
+35,35. Charles Babbage and Boole who demonstrate the power of,A. Logic | B. Computation logic | C. Cognition logic | D. All of above,Ans: B
+36,"36. In 1960s, pushed the logical formalism to integrate reasoning with knowledge.",A. Marvin Minsky | B. Alain Colmerauer | C. John McCarthy | D. None of above,Ans: A
+37,"37. Sensing organs as input, mechanical movement organs as output and central nervous system (CNS) in brain as control and computing devices is known as of human being",A. Information Control Paradigm | B. Information Processing Paradigm | C. Information Processing Control | D. None of above,Ans: B
+38,38.   model were developed and incorporated in machines which mimicked the functionalities of human origin.,A. Functional model | B. Neural model | C. Computational model | D. None of above,Ans: C
+39,39. Chomsky’s linguistic computational theory generated a model for syntactic analysis through,A. Regular Grammar | B. Regular Expression | C. Regular Word | D. None of these,Ans: A
+40,40. Human to Machine is and Machine to Machine is .,"A. Process, Process | B. Process, Program | C. Program, Hardware | D. Program, Program",Ans: C
+41,41. Weak AI is also known as,A. Narrow AI | B. General AI | C. Neural AI | D. None of above,Ans: A
+42,42.   AI is able to perform dedicated task.,A. Narrow AI | B. General AI | C. Neural AI | D. None of above,Ans: A
+43,43. Narrow AI is performs multiple task at a time.,A. True | B. False,Ans: B
+44,44. Weak AI is,A. The embodiment of human intellectual capabilities within a computer. | B. A set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans. | C. The study of mental faculties through the use of mental models implemented on a computer | D. All of the above | E. None of the above,Ans: C
+45,45. Strong AI is,A. The embodiment of human intellectual capabilities within a computer. | B. A set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans. | C. The study of mental faculties through the use of mental models implemented on a computer | D. All of the above | E. None of the above,Ans: A
+46,46. Artificial intelligence is,A. The embodiment of human intellectual capabilities within a computer. | B. A set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans. | C. The study of mental faculties through the use of mental models implemented on a computer | D. All of the above | E. None of the above,Ans: D
+47,47. Apple siri is a good example of AI.,A. Narrow AI | B. General AI | C. Neural AI | D. None of above,Ans: A
+48,48. IBM Watson supercomputer comes under AI.,A. Narrow AI | B. General AI | C. Neural AI | D. None of above,Ans: A
+49,49.   AI is a type of intelligence which could perform any intellectual task with efficiency like human.,A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: B
+50,50. The idea behind AI to make such a system which could be smarter and think like a human by its own.,A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: B
+51,51. The worldwide researchers are now focusing on developing machines with AI.,A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: B
+52,"52. Playing chess, purchasing suggestions on e-commerce site, self-driving cars, speech recognition, and image recognition are the example of .",A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: A
+53,53. Machine can perform any task better than human with cognitive properties is known as    AI.,A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: C
+54,"54. Ability to think, puzzle, make judgments, plan, learn, communication by its own is known as AI.",A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: C
+55,55. AI is hypothetical concept of AI.,A. Narrow AI | B. General AI | C. Super AI | D. None of above,Ans: C
+56,56. Which AI system not store memories or past experiences for future actions.,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: A
+57,57. Which machines only focus on current scenarios and react on it as per as possible best action.,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: A
+58,58. IBM’s deep blue system is example of .,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: A
+59,59. Google Alpha Go is example of .,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: A
+60,60. Which can stores past experiences or some data for short period time.,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: B
+61,61. Self-driving car is example of .,A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,"Ans: B [Car stores recent speed of nearby cars, distance of others car, speed limit, other information to navigate the road]"
+62,"62. Which AI should understand the human emotions, people, and beliefs and be able to interact socially like humans.",A. Reactive machine | B. Limited memory | C. Theory of mind | D. None of above,Ans: C
+63,63. Which machines will be smarter than human mind?,A. Reactive machine | B. Limited memory | C. Theory of mind | D. Self-Awareness,Ans: D
+64,64.   machines will have their own consciousness and sentiments,A. Reactive machine | B. Theory of mind | C. Self-Awareness | D. Both B & C,Ans: C
+65,65. Which is not the commonly used programming language for AI?,A. PROLOG | B. LISP | C. Perl | D. Java script,Ans: C
+66,66. What is Machine learning?,A. The autonomous acquisition of knowledge through the use of computer programs | B. The autonomous acquisition of knowledge through the use of manual programs | C. The selective acquisition of knowledge through the use of computer programs | D. The selective acquisition of knowledge through the use of manual programs,Ans: A
+67,67 is a branch of science that deals with programing the systems in such a way that they automatically learn and improve with experience,A. Machine Learning | B. Deep Learning | C. Neural Networks | D. None of these,Ans: A
+68,"68. Classifying email as a spam, labeling webpages based on their content, voice recognition are the example of .",A. Supervised learning | B. Unsupervised learning | C. Machine learning | D. Deep learning,Ans: A
+69,"69. K-means, self-organizing maps, hierarchical clustering are the example of .",A. Supervised learning | B. Unsupervised learning | C. Machine learning | D. Deep learning,Ans: B
+70,70. Deep learning is a subfield of machine learning where concerned algorithms are inspired by the structured and function of the brain called .,A. Machine learning | B. Artificial neural networks | C. Deep learning | D. Robotics,Ans: B
+71,71. Machine learning invent by .,A. John McCarthy | B. Nicklaus Wirth | C. Joseph Weizenbaum | D. Arthur Samuel,Ans: D

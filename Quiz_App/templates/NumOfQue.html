@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Quiz Results</title>
+</head>
+<body>
+    <div class="container" style="overflow-y: scroll; max-height: 92vh;">
+         <h1>Quiz for {{ subject }} - {{ chapter }}</h1>
+        <form method="POST">
+            <input type="hidden" name="subject" value="{{ subject }}">
+            <input type="hidden" name="chapter" value="{{ chapter }}">
+            <label for="num_questions">Number of questions:</label>
+            <input type="number" id="num_questions" name="num_questions" placeholder="Max 40 Question Only!!" min="1" required>
+            <button type="submit">Start Quiz</button>
+        </form>
+    </div>
+</body>
+</html>

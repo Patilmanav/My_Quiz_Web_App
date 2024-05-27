@@ -1,41 +1,143 @@
-index,Questions,op1,op2,op3,op4,ans
-1,What is the full form of IoT?,a)	Internet of Technology,b)	Incorporate of Things,c) Internet of Things,d) Incorporate of Technology,c) Internet of Things
-2,What is IoT?,a) network of physical objects embedded with sensors,b)	network of virtual objects,c)	network of objects in the ring structure,d)	network of sensors,a) network of physical objects embedded with sensors
-3,Who coined the term “Internet of Things”?,a) Kevin Aston,b)	John Wright,c)	Edward Jameson,d)	George Garton,a) Kevin Aston
-4,When was the actual term “Internet of Things” coined?,a)	1998,b) 1999,c)	2000,d)	2002,b) 1999
-5,Which of the following is not an IoT device?,a) Table,b)	Laptop,c)	Arduino,d) Tablet,a) Table
-6,Which of the following is false about IoT devices?,a)	IoT devices use the internet for collecting and sharing data,b)	IoT devices need microcontrollers,c)	IoT devices use wireless technology,d) IoT devices are completely safe,d) IoT devices are completely safe
-7,Which of the following is not an IoT platform?,a)	Amazon Web Services,b)	Microsoft Azure,c)	Salesforce,d) Flipkart,d) Flipkart
-8,Which of the following is not an application of IoT?,a) BMP280,b)	Smart home,c)	Smart city,d)	Self-driven cars,a) BMP280
-9,Which of the following is not a fundamental component of an IoT system?,a)	Sensors,b)	Connectivity and data processing,c)	User interface,d) Transformer,d) Transformer
-10,What is the full form of IIOT?,a)	Index Internet of Things,b)	Incorporate Internet of Things,c) Industrial Internet of Things,d) Intense Internet of Things,c) Industrial Internet of Things
-11,Which layer is used for wireless connection in IoT devices?,a)	Application layer,b)	Network layer,c) Data link layer,d) Transport layer View Answer,c) Data link layer
-12,Which of the following is false about the IoT components?,a)	A light sensor (photoresistor) is an analog sensor,b) A microphone is a digital sensor,c)	A push button is a digital sensor,d)	A keyboard is a digital sensor,b) A microphone is a digital sensor
-13,Which of the following is used to capture data from the physical world in IoT devices?,a) Sensors,b)	Actuators,c)	Microprocessors,d)	Microcontrollers,a) Sensors
-14,Which of the following commands is used to trigger the Amazon echo IOT device?,a)	Hello,b)	Suri,c) Alexa,d) Hey,c) Alexa
-15,Which of the following is false about the MANET IoT network?,a)	It is a self-configuring network,b)	It has a low data rate,c)	It doesn’t have any encryption,d) Power is readily available for complex security,d) Power is readily available for complex security
-16,Which of the following is not a sensor in IoT?,a)	BMP280,b)	DHT11,c)	Photoresistor,d) LED,d) LED
-17,Which of the following is not an actuator in IoT?,a)	Stepper motor,b)	A fan,c)	An LED,d) Arduino,d) Arduino
-18,What is the use of PWM signals in IoT development boards?,a)	They are used by sensors to have analog input,b)	They are used by sensors to have digital input,c) They are used by actuators to have analog input,d) They are used by actuators to have digital input,c) They are used by actuators to have analog input
-19,Which of the following is used to reprogram a Bootloader in IoT devices?,a)	VHDL programming,b)	IDE,c) ICSP,d) MANET,c) ICSP
-20,Which of the following is true about Arduino IoT devices?,a) They are open-source software,b)	They can only read analog inputs,c)	They have their own operating systems,d)	They don’t have pre-programmed firmware,a) They are open-source software
-21,How many elements in the Open IoT Architecture?,a)	3 elements,b) 7 elements,c)	8 elements,d)	6 elements,b) 7 elements
-22,IoT-A stands for 	,a)	Internet of Things Area,b)	Industrial of things Architecture,c)	Internet of Things Address,d) Internet of Things Architecture,d) Internet of Things Architecture
-23,Which of the following is not a feature of the Raspberry PI model B IoT device?,a) It has 256 MB SDRAM,b)	It has a single USB connector,c)	It has its own operating system,d)	It has an Ethernet port,a) It has 256 MB SDRAM
-24,Which of the following processors is used in the Raspberry PI 3 IoT device?,a)	Broadcom BCM2711,b) Broadcom BCM2837,c)	Broadcom BCM2838,d)	Intel 8085,b) Broadcom BCM2837
-25,Which library is used to access I2C in Arduino IoT devices?,a)	EEPROM,b) Wire,c)	DHT11,d)	ArduinoJson,b) Wire
-26,Which of the following is not related to Arduino IDE IoT software?,a)	Serial monitor,b)	Verify,c)	Upload,d) Terminate,d) Terminate
-27,Which of the following is a complete line of home IoT devices that include smart switches?,a) Belkin’s WeMo,b)	Cinder,c)	Awair,d)	Canary,a) Belkin’s WeMo
-28,IoT gateway must provide 	,a) Protocol abstraction,b)	Data storage,c)	Security with hardware,d)	Simple and fast installation,a) Protocol abstraction
-29,What IoT collects?,a)	Device data,b) Machine generated data,c)	Sensor data,d)	Human generated data,b) Machine generated data
-30,Which of the following protocols is used to link all the devices in the IoT?,a)	HTTP,b)	UDP,c)	Network,d) TCP/IP,d) TCP/IP
-31,Which service permits the changes to the IoT services?,a) Update,b)	Registered service status,c)	Enable from suspension,d)	Enable,a) Update
-32,What is the role of Cloud in smart grid architecture of IoT?,a)	Security,b)	Collect data,c) Manage data,d) Store data,c) Manage data
-33,What is the component of an IoT system that executes a program?,a)	A sensor,b) A microcontroller,c)	An actuator,d)	A digital to analog converter,b) A microcontroller
-34,Which programming language is used by Arduino IDE IoT software for writing codes?,a)	Python,b)	Java,c) C/C++,d) JavaScript,c) C/C++
-35,What is the full form of DHCP in IoT communication protocols?,a) Dynamic Host Communication Protocol,b)	Domain Host Communication Protocol,c)	Dynamic Host Control Protocol,d)	Domain Host Control Protocol,a) Dynamic Host Communication Protocol
-36,What is the full form of IDE in Arduino IDE IoT software?,a)	Intra Defense Environment,b)	Intra Development Environment,c) Integrated Development Environment,d) Integrated Deployed Environment,c) Integrated Development Environment
-37,dweet.io provides 	to send data from IoT devices.,a) Web API,b)	POST HTTP,c)	JSON,d)	HTTP,a) Web API
-38,Identify the language preferred for IoT analytics.,Python,HTML,PHP,C++,Python
-39,Identify the incorrect advantage of IoT.,Reduce waste,Enhanced data collection,Improve customer engagement,Security,Security
-40,Which of the following allows to monitor the application,boot,hypermedia,actuators,endpoints,endpoints
+index,Questions,Options,Answer
+1,1. Embedded systems are,A. General purpose | B. Special purpose,Ans: B
+2,2. Embedded system is,A. An electronic system | B. A pure mechanical system | C. An electro-mechanical system | D. (A) or (C),Ans: D
+3,3. Which of the following is not true about embedded systems?,A. Built around specialized hardware | B. Always contain an operating system | C. Execution behavior may be deterministic | D. All of these | E. None of these,Ans: E
+4,4. Which of the following is not an example of a “small-scale embedded system”?,A. Electronic Barbie doll | B. Simple calculator | C. Cell phone | D. Electronic toy car,Ans: C
+5,5. The first recognized modern embedded system is,A. Apple computer | B. Apollo Guidance Computer (AGC) | C. Calculator | D. Radio navigation system,Ans: B
+6,6. The first mass produced embedded system is,A. Minuteman-I | B. Minuteman-II | C. Autonetics D-17 | D. Apollo Guidance Computer (AGC),Ans: C
+7,7. Which of the following is an (are) an intended purpose(s) of embedded systems?,A. Data collection | B. Data processing | C. Data communication | D. All of these | E. None of these,Ans: D
+8,8. Which of the following is (are) example(s) of embedded system for data communication? USB Mass Storage device,A. Network router | B. Digital camera | C. Music player | D. All of these | E. None of these,Ans: B
+9,9. What are the essential tight constraint/s related to the design metrics of an embedded system?,A. Ability to fit on a single chip | B. Low power consumption | C. Fast data processing for real-time operations D .All of the above,Ans: D
+10,10. A digital multi meter is an example of an embedded system for,A. Data communication | B. Monitoring | C. Control | D. All of these | E. None of these,Ans: B
+11,11. Which of the following is an (are) example(s) of an embedded system for signal processing?,A. Apple iPOD (media player device) | B. SanDisk USB mass storage device | C. Both (A) and (B) | D. None of these,Ans: D
+12,12. The instruction set of RISC processor is,A. Simple and lesser in number | B. Complex and lesser in number | C. Simple and larger in number | D. Complex and larger in number,Ans: A
+13,13. Which of the following is true about CISC processors?,A. The instruction set is non-orthogonal | B. The number of general purpose registers is limited | C. Instructions are like macros in c language | D. Variable length instructions | E. All of these | F. None of these,Ans: E
+14,14. Main processor chip in computers is,A. ASIC | B. ASSP | C. CPU | D. CPLD,Ans: C
+15,15. Processors used in many microcontroller products need to be,A. high power | B. low power | C. low interrupt response | D. low code density,Ans: B
+16,"16. In microcontrollers, UART is acronym of",A. Universal Applied Receiver/Transmitter | B. Universal Asynchronous Rectified Transmitter | C. Universal Asynchronous Receiver/Transmitter | D. United Asynchronous Receiver/Transmitter,Ans: C
+17,17. Which architecture is followed by general purpose microprocessors?,A. Harvard architecture | B. Von Neumann architecture | C. None of the mentioned | D. All of the mentioned,Ans: B
+18,18. Which architecture involves both the volatile and the non-volatile memory?,A. Harvard architecture | B. Von Neumann architecture | C. None of the mentioned | D. All of the mentioned,Ans: A
+19,19. Which architecture provides separate buses for program and data memory?,A. Harvard architecture | B. Von Neumann architecture | C. None of the mentioned | D. All of the mentioned,Ans: A
+20,20. Harvard architecture allows:,A. Separate program and data memory | B. Pipe-ling | C. Complex architecture | D. All of the mentioned,Ans: D
+21,21. Which of the following processor architecture supports easier instruction pipelining?,A. Harvard | B. Von Neumann | C. Both of them | D. None of these,Ans: A
+22,22. Which of the following is an example for wireless communication interface?,A. RS-232C | B. Wi-Fi | C. Bluetooth | D. EEE1394 | E. Both (B) and (C),Ans: E
+23,23. ARM stands for,A. Advanced RISC Machine | B. Advanced RISC Methodology | C. Advanced Reduced Machine | D. Advanced Reduced Methodology,Ans: A
+24,24. What is the processor used by ARM7?,A. 8-bit CISC | B. 8-bit RISC | C. 32-bit CISC | D. 32-bit RISC,Ans: D
+25,25. The main importance of ARM micro-processors is providing operation with,A. Low cost and low power consumption | B. Higher degree of multi-tasking | C. Lower error or glitches | D. Efficient memory management,Ans: A
+26,26. ARM processors where basically designed for,A. Main frame systems | B. Distributed systems | C. Mobile systems | D. Super computers,Ans: C
+27,27. ASIC chip is,A. Simple in design. | B. Manufacturing time is less. | C. It is faster. | D. Both A&C.,Ans: C
+28,28. ASIC stands for,A. Application-System Integrated Circuits | B. Application-Specific Integrated Circuits | C. Application-System Internal Circuits | D. Application-Specific Internal Circuits,Ans: B
+29,"29. In microcontrollers, I2C stands for",A. Inter-Integrated Clock | B. Initial-Integrated Clock | C. Intel-Integrated Circuit | D. Inter-Integrated Circuit,Ans: D
+30,30.   is the smallest microcontrollers which can be programmed to perform a large range of tasks.,A. PIC microcontrollers | B. ARM microcontrollers | C. AVR microcontrollers | D. ASIC microcontrollers,Ans: - A
+31,31.   was developed in the year 1996 by ATMEL Corporation,A. PIC | B. AVR | C. ARM | D. ASIC,Ans: - B
+32,32. AVR stands for .,A. Advanced Virtual RISC. | B. Alf-Egil Bogen and Vegard Wollan RISC | C. Both A & B | D. None of the above,Ans: - C
+33,33. AVR microcontroller executes most of the instruction in .,A. Single execution cycle. | B. Double execution cycle. | C. Both A& B | D. None of the above.,Ans: - A
+34,"34. Term ""the Internet of things"" was coined by",A. Edward L. Schneider | B. Kevin Ashton | C. John H. | D. Charles Anthony,Ans: B
+35,"35. The huge numbers of devices connected to the Internet of Things have to communicate automatically, not via humans, what is this called?",A. Bot to Bot(B2B) | B. Machine to Machine(M2M) | C. InterCloud | D. Skynet,Ans: B
+36,36. What does “Things” in IoT refers to?,A. General device | B. Information | C. IoT devices | D. Object,Ans: C
+37,"37. Interconnection of Internet and computing devices embedded in everyday objects, enabling them to send and receive data is called",A. Internet of Things | B. Network Interconnection | C. Object Determination | D. None of these,Ans: A
+38,38.   is a computing concept that describes the idea of everyday physical objects being connected to the internet.,A. IOT (Internet of Things) | B. MQTT | C. COAP | D. SPI,Ans: -A
+39,39 devices may support a number of interoperable communication protocols and communicate with other device and also with infrastructure.,A. Artificial Intelligence | B. Machine Learning | C. Internet of Things | D. None of above,Ans: C
+40,40. Which one is not element of IOT?,A. Process | B. People | C. Security | D. Things,Ans:C
+41,41. IIOT stands for,A. Information Internet of Things | B. Industrial Internet of Things | C. Inovative Internet of Things | D. None of above,Ans:B
+42,42. Name of the IOT device which is first recognized?,A. Smart Watch | B. ATM | C. Radio | D. Video Game,Ans: B
+43,43.   is used by IOT,A. Radio information technology | B. Satellite | C. Cable | D. Broadband,Ans:A
+44,"44.   consists of communication protocols for electronic devices, typically a mobile device and a standard device.",A. RFID | B. MQTT | C. NFC | D. None of above,Ans:C
+45,45.   refers to establish a proper connection between all the things of IOT.,A. Connectivity | B. Analyzing | C. Sensing | D. Active Engagement,Ans: - A
+46,46. IOT devices which have unique identities and can perform .,A. Remote sensing | B. Actuating | C. Monitoring capabilities | D. All of the above,Ans: - D
+47,47. The sensed data communicated .,A. Cloud-based servers/storage. | B. I/O interfaces. | C. Internet connectivity. | D. None of the above,Ans: - A
+48,"48. IOT devices are various types, for instance .",A. Wearable sensors. | B. Smart watches. | C. LED lights. | D. All of the above,Ans: - D
+49,49.   is a collection of wired Ethernet standard for the link layer.,A. IEEE 802.3 | B. IEEE 802.11 | C. IEEE 802.16 | D. IEEE 802.15.4,Ans: - A
+50,50.   is a collection of WLAN communication standards.,A. IEEE 802.3 | B. IEEE 802.11 | C. IEEE 802.16 | D. IEEE 802.15.4,Ans:B
+51,51.   is a collection of wireless broadband standards (WiMax).,A. IEEE 802.3 | B. IEEE 802.11 | C. IEEE 802.16 | D. IEEE 802.15.4,Ans:C
+52,52 is a collection of standards for LR-WPANs.,A. IEEE 802.3 | B. IEEE 802.11 | C. IEEE 802.16 | D. IEEE 802.15.4,Ans:D
+53,53. LR-WPANs standards from basis of specifications for high level communication protocol such as .,A. Zigbee | B. Allsean | C. Tyrell | D. Microsoft's Azure,Ans:A
+54,54.   includes GSM and CDMA.,A. 2G | B. 3G | C. 4G | D. None of above,Ans:A
+55,55.   include UMTS and CDMA2000.,A. 2G | B. 3G | C. 4G | D. None of above,Ans:B
+56,56 include LTE.,A. 2G | B. 3G | C. 4G | D. None of above,Ans:C
+57,57.   layer protocols determine how the data is physically sent over the network’s physical layer or medium.,A. Application layer | B. Transport layer | C. Network layer | D. Link layer,Ans: - D
+58,58 layer is responsible for sending of IP datagrams from the source network to the destination network.,A. Application layer | B. Transport layer | C. Network layer | D. Link layer,Ans: C
+59,59.   layer perform the host addressing and packet routing.,A. Application layer | B. Transport layer | C. Network layer | D. Link layer,Ans:C
+60,60.   protocols provide end to end message transfer capability independent of the underlying network.,A. Network layer | B. Transport layer | C. Application layer | D. Link layer,Ans: - B
+61,61. The protocols define how the applications interface with the lower layer protocol to send the data over the network.,A. Application layer | B. Transport layer | C. Network layer | D. Link layer,Ans:A
+62,62. 6LOWPAN stands for,A. 6 LOW Personal Area Network | B. IPv6 LOW Personal Area Network | C. IPv6 over Low power wireless personal area network | D. None of above,Ans:C
+63,63. 802.3 is the standard for 10BASE5 Ethernet that uses cable as shared medium.,A. Twisted pair cable | B. Coaxial cable | C. Fiber optic cable | D. None of the above,Ans: - B
+64,64. IEEE 802.11 standards provide data rates,A. 10 Gbit/s. | B. 1 Gbit/s | C. 1 Mb/s to up to 6.75 Gb/s | D. 250 Kb/s,Ans: - C
+65,65.   of the following is a protocol related to IOT,A. Zigbee | B. 6LoWPAN | C. CoAP | D. All of the above,Ans: C
+66,66.   is useful for time-sensitive application that have very small data units to exchange and do not want the overhead of connection setup.,A. TCP | B. UDP | C. Transport layer | D. None of the above.,Ans: - B
+67,67.   protocol uses Universal Resource Identifiers (URIs) to identify HTTP resources.,A. HTTP | B. COAP | C. WebSocket | D. MQTT,Ans: A
+68,68. The 10/100Mbit Ethernet support enables the board to connect to,A. LAN | B. MAN | C. WAN | D. WLAN,Ans: A
+69,69. Which one out of these is not a data link layer technology?,A. Bluetooth | B. UART | C. Wi-Fi | D. HTTP,Ans: D
+70,70. What is size of the IPv6 Address?,A. 32 bits | B. 64 bits | C. 128 bits | D. 256 bits,Ans: C
+71,71. MQTT stands for,A. MQ Telemetry Things | B. MQ Transport Telemetry | C. MQ Transport Things | D. MQ Telemetry Transport,Ans: D
+72,72. MQTT is better than HTTP for sending and receiving data.,A. True | B. False,Ans: A
+73,73. MQTT is protocol.,A. Machine to Machine | B. Internet of Things | C. Machine to Machine and Internet of Things | D. Machine Things,Ans: C
+74,74. Which protocol is lightweight?,A. MQTT | B. HTTP | C. CoAP | D. SPI,Ans: A
+75,75 MQTT is:,A. Based on client-server architecture | B. Based on publish-subscribe architecture | C. Based on both of the above | D. Based on none of the above,Ans: B
+76,76. XMPP is used for streaming which type of elements?,A. XPL | B. XML | C. XHL | D. MPL,Ans: B
+77,77. XMPP creates identity.,A. Device | B. Email | C. Message | D. Data,Ans: A
+78,78. XMPP uses architecture.,A. Decentralized client-server | B. Centralized client-server | C. Message | D. Public/subscriber,Ans: A
+79,79. What does HTTP do?,A. Enables network resources and reduces perception of latency | B. Reduces perception of latency and allows multiple concurrency exchange | C. Allows multiple concurrent exchange and enables network resources | D. Enables network resources and reduces perception of latency and Allows multiple concurrent exchange.,Ans: D
+80,80. HTTP expands?,A. Hyper Text Transfer Protocol | B. Hyper Terminal Transfer Protocol | C. Hyper Text Terminal Protocol | D. Hyper Terminal Text Protocol,Ans: A
+81,81. CoAP is specialized in,A. Internet applications | B. Device applications | C. Wireless applications | D. Wired applications,Ans: A
+82,82. Which protocol is used to link all the devices in the IoT?,A. TCP/IP | B. Network | C. UDP | D. HTTP,Ans: A
+83,83. Data in network layer is transferred in the form of,A. Layers | B. Packets | C. Bytes | D. Bits,Ans:B
+84,84. Services provided by application layer?,A. Web chat | B. Error control | C. Connection services | D. Congestion control,Ans: A
+85,85. TCP and UDP are called?,A. Application protocols | B. Session protocols | C. Transport protocols | D. Network protocols,Ans: C
+86,86. Security based connection is provided by which layer?,A. Application layer | B. Transport layer | C. Session layer | D. Network layer,Ans: D
+87,87. Using which layer in transport layer data integrity can be assured?,A. Checksum | B. Repetition codes | C. Cyclic redundancy checks | D. Error correction codes,Ans: A
+88,88. Transport layer receives data in the form of?,A. Packets | B. Byte streams | C. Bits stream | D. both packet and Byte stream,Ans: B
+89,89. The network layer is considered as the ?,A. Backbone | B. packets | C. Bytes | D. bits,Ans: A
+90,90. The network layer consists of which hardware devices?,A. Router | B. Bridges | C. Switches | D. All of the above,Ans: D
+91,91. Network layer protocol exits in ?,A. Host | B. Switches | C. Packets | D. Bridges,Ans: A
+92,92. Which protocol has a quality of service?,A. XMPP | B. HTTP | C. CoAP | D. MQTT,Ans: A
+93,93.    is a data-centric middleware standard for device-to-device and machine-to-machine communication.,A. Data Distribution Serviced (DDS) | B. Advance Message Queuing Protocol (AMQP) | C. Extensible Messaging and Presence Protocol (XMPP) | D. Message Queue Telemetry Transport (MQTT),Ans:A
+94,"94.   is a bi-directional, fully duplex communication model that uses a persistent connection between client and server.",A. Request-Response | B. Publish-Subscriber | C. Push-Pull | D. Exclusive Pair,Ans:D
+95,95.   is a stateful communication model and server is aware of all open connection.,A. Request-Response | B. Publish-Subscriber | C. Push-Pull | D. Exclusive Pair,Ans:D
+96,96. Which is not an IoT communication model.,A. Request-Response | B. Publish-Subscribe | C. Push-Producer | D. Exclusive Pair,Ans: C
+97,"97. In Node MCU, MCU stands for .",A. Micro Control Unit | B. Micro Controller Unit | C. Macro Control Unit | D. Macro Controller Unit,Ans: B
+98,98. REST is acronym for,A. Representational State Transfer | B. Represent State Transfer | C. Representational State Transmit | D. Representational Store Transfer,Ans: A
+99,99. WSN stands for,A. Wide Sensor Network | B. Wireless Sensor Network | C. Wired Sensor Network | D. None of these,Ans: B
+100,100. Benefit of cloud computing services,A. Fast | B. Anywhere access | C. Higher utilization | D. All of the above,Ans: D
+101,101. PaaS stands for _,A. Platform as a Service | B. Platform as a Survey | C. People as a Service | D. Platform as a Survey,Ans: A
+102,102.   as a Service is a cloud computing infrastructure that creates a development environment upon which applications may be build.,A. Infrastructure | B. Service | C. Platform | D. All of the mentioned,Ans:C
+103,103.   is a cloud computing service model in which hardware is virtualized in the cloud.,A. IaaS | B. CaaS | C. PaaS | D. None of the mentioned,Ans:A
+104,104. Which of the following is the fundamental unit of virtualized client in an IaaS deployment? a) workunit b) workspace c) workload d) all of the mentioned,105.   offering provides the tools and development environment to deploy applications on another vendor’s application. | A. PaaS | B. IaaS | C. CaaS | D. All of the mentioned,Ans.B
+105,106.   is the most refined and restrictive service model.,A. IaaS | B. CaaS | C. PaaS | D. All of the mentioned,Ans.C
+106,107.   is suitable for IOT applications to have low latency or high throughput requirements.,A. REST | B. Publish-Subscriber | C. Push-Pull | D. WebSocket,Ans:D
+107,108 is a one of the most popular wireless technologies used by WSNs.,A. Zigbee | B. AllSean | C. Tyrell | D. Z-Wave,Ans:A
+108,109. Zigbee specification are based on .,A. 802.3 | B. 802.11 | C. 802.16 | D. 802.15.4,Ans:D
+109,110.   is a transformative computing paradigm that involves delivering applications and services over the internet.,A. WSN | B. Cloud Computing | C. Big Data | D. None of above,Ans:B
+110,"111. The process of collecting, organizing and collecting large sets of data called as",A. WSN | B. Cloud Computing | C. Big Data | D. None of above,Ans:C
+111,112. Does Raspberry Pi need external hardware?,A. True | B. False,Ans.B
+112,113. Does RPi have an internal memory?,A. True | B. False,Ans.A
+113,114. What do we use to connect TV to RPi?,A. Male HDMI | B. Female HDMI | C. Male HDMI and Adapter | D. Female HDMI and Adapter,Ans.C
+114,115. How power supply is done to RPi?,A. USB connection | B. Internal battery | C. Charger | D. Adapter,Ans.A
+115,116. What is the Ethernet/LAN cable used in RPi?,A.Cat5 | B.at5e | C. cat6 | D . RJ45,Ans.D
+116,117. Which instruction set architecture is used in Raspberry Pi?,A. X86 | B. MSP | C. AVR | D. ARM,Ans: D
+117,118. Does micro SD card present in all modules?,A. True | B. False,Ans: A
+118,119. Which characteristics involve the facility the thing to respond in an intelligent way to a particular situation?,A. Intelligence | B. Connectivity | C. Dynamic Nature | D. Enormous Scale,Ans: A
+119,120.   empowers IoT by bringing together everyday objects.,A. Intelligence | B. Connectivity | C. Dynamic Nature | D. Enormous Scale,Ans: B
+120,121. The collection of data is achieved with changes.,A. Intelligence | B. Connectivity | C. Dynamic Nature | D. Enormous Scale,Ans: C
+121,122. The number of devices that need to be managed and that communicate with each other will be much larger.,A. Intelligence | B. Connectivity | C. Dynamic Nature | D. Enormous Scale,Ans: D
+122,"123.   in IoT as one of the key characteristics, devices have different hardware platforms and networks.",A. Sensors | B. Heterogeneity | C. Security | D. Connectivity,Ans: B
+123,124. Devices that transforms electrical signals into physical movements,A. Sensors | B. Actuators | C. Switches | D. Display,Ans: B
+124,125. Stepper motors are_,A. AC motors | B. DC motors | C. Electromagnets | D. None of above,Ans: B
+125,126. DC motors converts electrical into energy.,A. Mechanical | B. Wind | C. Electric | D. None,Ans: A
+126,127. Linear actuators are used in,A. Machine tools | B. Industrial machinery | C. both A and B D.None,Ans: A
+127,128. Solenoid is a specially designed,A. Actuator | B. Machine | C. Electromagnet | D. none of above,Ans: C
+128,129. Stepper motors are_,A. AC motors | B. DC motors | C. Electromagnets | D. None of above,Ans: B
+129,130. Accelerometer sensors are used in,A. Smartphones | B. Aircrafts | C. Both | D. None of above,Ans: C
+130,131. Image sensors are found in,A. Cameras | B. Night-vision equipment | C. Sonars | D. All of above,Ans: D
+131,132. Gas sensors are used to detect gases.,A. Toxic | B. Natural | C. Oxygen | D. Hydrogen,Ans: A
+132,133. Properties of Arduino are:,A. Inexpensive | B. Independent | C. Simple | D. both A and C,Ans: D
+133,134. Properties of IoT devices.,A. Sense | B. Send and receive data | C. Both A and B | D. None of above,Ans: C
+134,135. IoT devices are _,A. Standard | B. Non-standard | C. Both | D. None,Ans: B
+135,136. What is the microcontroller used in Arduino UNO?,A. ATmega328p | B. ATmega2560 | C. ATmega32114 | D. AT91SAM3x8E,Ans: A
+136,137.   is an open source electronic platform based on easy to used hardware and software.,A. Arduino | B. Uno | C. Raspberry Pi | D. Node,Ans:A
+137,"138 is used latching, locking, triggering.",A. Solenoid | B. Relay | C. Linear Actuator | D. Servo motors,Ans:A
+138,139. detect the presence or absence of nearby object without any physical contact.,A. Smoke Sensor | B. Pressure Sensor | C. IR Sensor | D. Proximity Sensor,Ans:D
+139,"140 sensors include thermocouples, thermistors, resistor temperature detectors (RTDs) and integratd circuits (ICs).",A. Smoke Sensor | B. Temperature Sensor | C. IR Sensor | D. Proximity Sensor,Ans:B
+140,141. The measurement of humidity is,A. RH | B. PH | C. IC | D. None of aboved,Ans:A
+141,"142   sensor is used for automatic door controls, automatic parking system, automated sinks, automated toilet flushers, hand dryers.",A. Smoke Sensor | B. Temperature Sensor | C. IR Sensor | D. Motion Sensor,Ans:D
+142,143   sensor measure heat emitted by objects.,A. Smoke Sensor | B. Temperature Sensor | C. IR Sensor | D. Proximity Sensor,Ans:C
