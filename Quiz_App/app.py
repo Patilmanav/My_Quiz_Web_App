@@ -98,6 +98,15 @@ def quiz():
     if request.method == 'POST':
         selected_choice = request.form.get('choice')
         correct_answer = questions[current_question]['answer']
+        cor_ans = ""
+        for i in questions[current_question]['choices']:
+            if '.' in i:
+                if i.strip().split(".")[0] in correct_answer.strip().replace("Ans", ""):
+                    cor_ans = i
+            elif ')' in i:
+                if i.strip().split(".")[0] in correct_answer.strip().replace("Ans", ""):
+                    cor_ans = i
+
 
         if request.form.get('name')!=None:
             print(session['uName'])
@@ -111,9 +120,9 @@ def quiz():
         answer.append({
             'question': questions[session['current_question']]['question'],
             'selected': selected_choice,
-            'correct': correct_answer
+            'correct': correct_answer + cor_ans
         })
-        
+        print(correct_answer + cor_ans)
         session['answers'] = answer
         session['current_question'] = current_question + 1
         
