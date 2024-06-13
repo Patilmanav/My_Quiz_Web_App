@@ -4,8 +4,8 @@ This project was developed during online exams to help assess exam readiness thr
 
 Technologies Used:
 
-  Flask
-  Pandas
-  AWS (MySQL Database)
-  HTML
-  CSS
+  <li>Flask</li>
+  <li>Pandas</li>
+  <li>AWS (MySQL Database)</li>
+  <li>HTML</li>
+  <li>CSS</li>
